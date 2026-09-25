@@ -12,7 +12,7 @@ Para visualizar o código-fonte, testar e contribuir com as últimas alteraçõe
 ```bash
 # Clone o repositório (caso ainda não tenha clonado)
 git clone https://github.com/murilosousaz/Net-Checker.git
-cd net_checker
+cd Net-Checker
 
 # Troque para a branch develop
 git checkout develop
